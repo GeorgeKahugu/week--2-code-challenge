@@ -38,7 +38,9 @@ Support and Contact Details:
      https://github.com/GeorgeKahugu
 
 License: 
-     
+     MIT License
+
+Copyright (c) 2024 GeorgeKahugu
      
 
       
