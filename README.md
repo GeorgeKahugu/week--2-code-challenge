@@ -23,7 +23,7 @@ Installation Requirements-
      GitHub
 
 Installation Instruction-
-    
+    SSH Key - git@github.com:GeorgeKahugu/week--2-code-challenge.git
 
 Live Link-
    
