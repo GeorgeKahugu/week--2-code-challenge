@@ -12,8 +12,8 @@ function swapCaseFirstCharacter(str) {
   }
   
 //  input and output of CharacterCase
-  var input = 'The Boy Is Headed To School';
-  var output = swapCaseFirstCharacter(input);
+  let input = 'The Boy Is Headed To School';
+  let output = swapCaseFirstCharacter(input);
 
   console.log(output); 
   // tHE bOY iS hEADED tO sCHOOL
