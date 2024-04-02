@@ -6,7 +6,7 @@ Date: 29 March 2024
 By: George Kahugu
 
 ## Description-
-   Below are the three challenges tackled in the code challenge with their output examples;
+   Below are the three code- challenges tackled with my own output examples;
 
    ### Challenge 1;
     This is a function that accepts a string as input and swaps the case of each character. For example, if you input 'The Boy Is Headed To School' the output should be 'tHE bOY iS hEADED tO sCHOOL'.
