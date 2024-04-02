@@ -38,7 +38,8 @@ By: George Kahugu
      Node 
 
 ## Support and Contact Details:
-   https://github.com/GeorgeKahugu
+Github :   https://github.com/GeorgeKahugu
+Email :   george.kahugu@student.moringaschool.com
 
 ## License: 
     MIT License
