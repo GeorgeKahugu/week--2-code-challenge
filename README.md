@@ -27,7 +27,8 @@ By: George Kahugu
       Use Gitclone to be able to download the documents from Github, copy the SSH Key provided below, open your terminal & use git clone to paste it. 
       
 ## Installation Key -
-    SSH Key - git@github.com:GeorgeKahugu/week--2-code-challenge.git
+    SSH Key 
+    git@github.com:GeorgeKahugu/week--2-code-challenge.git
 
 ## Live Link-
    https://github.com/GeorgeKahugu/week--2-code-challenge.git
