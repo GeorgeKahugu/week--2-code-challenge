@@ -39,7 +39,7 @@ By: George Kahugu
 
 ## Support and Contact Details:
 <p>Github: https://github.com/GeorgeKahugu</p>
-Email: george.kahugu@student.moringaschool.com 
+   Email: george.kahugu@student.moringaschool.com
 
 ## License: 
     MIT License
