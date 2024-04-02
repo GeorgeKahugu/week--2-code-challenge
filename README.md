@@ -20,10 +20,10 @@ Description-
     
 
  Installation Requirements-
-     GitHub
+     Git, VisualStudioCode
  
  Installation Instruction-
-      Use Gitclone to be able to download the documents from Github, copy the SSH Key, open your terminal & paste it. 
+      Use Gitclone to be able to download the documents from Github, copy the SSH Key provided below, open your terminal & use git clone to paste it. 
       
 Installation Key -
     SSH Key - git@github.com:GeorgeKahugu/week--2-code-challenge.git
@@ -31,8 +31,9 @@ Installation Key -
 Live Link-
    https://github.com/GeorgeKahugu/week--2-code-challenge.git
      
-Programming Languages used:
+Technologies used:
      JavaScript
+     Github
 
 Support and Contact Details:
      https://github.com/GeorgeKahugu
