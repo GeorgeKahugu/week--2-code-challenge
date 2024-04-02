@@ -22,20 +22,25 @@
 
     This is a function that takes an array of numbers as input and returns a new array containing only the prime numbers from the original array. This function would be prompted efficiently, ensuring that it accurately identifies prime numbers and returns them in the same order they appear in the input array. For example, if you provide an array [11, 12, 13, 14, 15, 16, 17, 18, 19, 20] it should return an array [11, 13, 15, 17].
 
-## Installation Requirements-
+### How to Use
 
-     Git
-     VisualStudioCode
+#### Installation Requirements
+
+   -A computer with a bash terminal.
+
+   -A computer with Node installed
+
+   -Access to the internet.
 
 ## Installation Instruction-
 
       Use Gitclone to be able to download the documents from Github, copy the SSH Key provided below, open your terminal & use git clone to paste it.
 
-## SSH Key -
-
-<git@github.com>:GeorgeKahugu/week--2-code-challenge.git
+                           <git@github.com>:GeorgeKahugu/week--2-code-challenge.git
 
 ## Running the Code
+
+ After cloning the repository, navigate to the project folder on your bash terminal.
 
    On your terminal run **node stringasinput.js** to run the first code-challenge.
 
