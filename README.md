@@ -38,7 +38,7 @@ By: George Kahugu
      Github
 
 ## Support and Contact Details:
-     https://github.com/GeorgeKahugu
+   [GeorgeKahugu]https://github.com/GeorgeKahugu
 
 ## License: 
      MIT License
