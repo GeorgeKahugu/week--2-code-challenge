@@ -42,6 +42,8 @@
 
  After cloning the repository, navigate to the project folder on your bash terminal.
 
+ Install dependancies using  npm install
+
    On your terminal run **node stringasinput.js** to run the first code-challenge.
 
    **node twonumberstogenerateanarray.js** to run the second challenge.
