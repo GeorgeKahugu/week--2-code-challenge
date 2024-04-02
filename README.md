@@ -33,7 +33,7 @@
 
 ## SSH Key -
 
-<git@github.com>:<GeorgeKahugu/week--2-code-challenge.git>
+<git@github.com>:GeorgeKahugu/week--2-code-challenge.git
 
 ## Running the Code
 
@@ -55,7 +55,8 @@
 
 ## Support and Contact Details
 
- Incase of any query or issues with this code feel free to reach me at;
+ Incase of any query or issues with this code feel free to reach me on;
+
  Github:[GeorgeKahugu](https://github.com/GeorgeKahugu)
    Email: <george.kahugu@student.moringaschool.com>
 
