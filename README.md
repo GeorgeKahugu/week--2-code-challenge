@@ -20,7 +20,8 @@ By: George Kahugu
     
 
 ## Installation Requirements-
-     Git, VisualStudioCode
+     Git
+     VisualStudioCode
  
 ## Installation Instruction-
       Use Gitclone to be able to download the documents from Github, copy the SSH Key provided below, open your terminal & use git clone to paste it. 
