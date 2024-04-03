@@ -42,7 +42,7 @@
 
  After cloning the repository, navigate to the project folder on your bash terminal.
 
- Install dependancies using  **npm install**
+ Install dependencies using  **npm install**
 
    On your terminal run **node stringasinput.js** to run the first code-challenge.
 
@@ -50,7 +50,7 @@
 
    **node anarrayofnumbers.js** to run the third challenge.
 
-## Live Link-
+## URL-
 
 <https://github.com/GeorgeKahugu/week--2-code-challenge.git>
 
@@ -62,7 +62,7 @@
 
 ## Support and Contact Details
 
- Incase of any query or issues with this code feel free to reach me on;
+ Incase, of any query or issues with this code feel free to reach me on;
 
  Github:[GeorgeKahugu](https://github.com/GeorgeKahugu)
    Email: <george.kahugu@student.moringaschool.com>
